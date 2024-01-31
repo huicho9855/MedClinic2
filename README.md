@@ -2,7 +2,9 @@
 
 Instalación y configuración:
 
-Ver la actividad 1
+Por la descarga de Git yo me fui a la página de Git y busqué sus descargas
+Luego seguí las instrucciones y configuré en default la instalación de Git para mi computadora y su sistema operativo de Windows.
+Y finalmente lo conseguí funcionar en mi computadora.
 
 Uso del programa:
 
