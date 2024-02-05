@@ -1,0 +1,64 @@
+GitHub.com/huicho9855/MedClinic2
+------------------ Programación Java Menu ---------------------
+
+1 Hello World
+2 Calificaciones
+3 Consulta Medica
+4 Java Poker
+5 Agencia Telefónica
+X/x Termina el programa
+--------------------------------------------------------------
+Favor de dar la opción deseada: 3
+
+** Menu de Consulta Medica**
+             1 - Administrar Pacientes
+             2 - Administrar Doctores
+             3 - Administrar Citas
+             4 - Hacer citas
+            X/x . Regresar l Menu Principal
+
+Favor de dar la opción deseada: 4
+
+Favor de dar Nombre del Doctor: 
+Fransico
+Favor de dar Apellido del Doctor: 
+Torres
+Favor de dar la Especilaidad del Doctor: 
+Radiografía e Imagen
+Favor de dar el Nombre del Paciente: 
+José Luis
+Favor de dar el Apellido del Pacinete: 
+Gonález Maltés
+Favor de dar el Motivo de la Cita: 
+Hacer una radiografía
+Favor de dar la Fecha de la Cita: 
+20/02/2024
+Favor de dar la Hora de la Cita:
+1:00
+
+Consulta finalizada
+Datos Guardadios correctamente
+
+** Menu de Consulta Medica**
+             1 - Administrar Pacientes
+             2 - Administrar Doctores
+             3 - Administrar Citas
+             4 - Hacer citas
+             X/x - Regresar al Menu Principal
+
+Favor de dar la opción deseada: X
+
+------------------ Programación Java Menu ---------------------
+
+1 Hello World
+2 Calificaciones
+3 Consulta Medica
+4 Java Poker
+5 Agencia Telefónica
+X/x Termina el programa
+--------------------------------------------------------------
+Favor de dar la opción deseada:X
+Saliendo
+
+
+Programa Corrio correctamente 1m 20s
